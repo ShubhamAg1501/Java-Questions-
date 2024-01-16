@@ -1,6 +1,8 @@
+package Tasks;
+
 import java.util.Scanner;
 
-public class CBSEExamPercentageCalculator {
+public class Task_1{
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

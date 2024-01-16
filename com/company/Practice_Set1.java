@@ -1,5 +1,5 @@
 package com.company;
-public class Practice_Set_1{
+public class Practice_Set1{
     public static void main(String[] args) {
 //        Question1
 //        int x = 4;
