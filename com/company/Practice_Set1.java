@@ -1,4 +1,5 @@
 package com.company;
+import java.util.Scanner;
 public class Practice_Set1{
     public static void main(String[] args) {
 //        Question1
