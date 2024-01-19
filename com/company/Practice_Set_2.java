@@ -23,7 +23,7 @@ public class Practice_Set_2 {
         System.out.println(myString.indexOf("   "));
 
         // Problem 5
-        String myLetter = "Dear Harry,\n\tThis Java Course is Nice.\nThanks!";
+        String myLetter = "Dear Shubham,\n\tThis Java Course is Nice.\nThanks!";
         System.out.println(myLetter);
 
     }
